@@ -41,7 +41,7 @@ const questions = [
             if (installationInput) {
                 return true;
             } else {
-                console.log('You need to provide installation info to continue!');
+                console.log('You need to provide installation information to continue!');
                 return false;
             }
         }
