@@ -28,6 +28,6 @@
 
 ## Questions
 GitHub url where the project is located:
-* https://github.com/Rbenney15/readme-generator.git
+* https://github.com/Rbenney15/README-generator.git
 If you have any questions, please feel free to reach me at:
 * Rob.benney@gmail.com
