@@ -1,33 +1,28 @@
-# Professional README Generator
 
-## Licensing:
-(Display License logo here)
-
-## Table of Contents
-* [Licensing] (#licensing)
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Questions] (#questions)
-
-## Application Demo Video
-(Demo video here)
-
-## Description
-* This application will help you save time that may have been spent on generating a indepth README file for your projecy and allow you to be spending more time on your project itself. You can see in the above in the demonstration video on how it should be working for you. 
-
-## Installation
-* Download repo from GitHub
-* This application uses Inquirer, please make sure you have this installed as well
-
-## Usage
-* Open Terminal.
-* To run the application; type 'node index.js'
-* Answer the prompts as they are presented to you.
-* Once all prompts are answered, a Professional README.md file will be generated.
-
-## Questions
-GitHub url where the project is located:
-* https://github.com/Rbenney15/README-generator.git
-If you have any questions, please feel free to reach me at:
-* Rob.benney@gmail.com
+  # ReadMe generator
+  ---
+  ## Licensing:
+  [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
+  ## Table of Contents 
+  - [Description](#description)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contribution](#contribution)
+  - [Testing](#testing)
+  - [Additional Info](#additional-info)
+  ## Description:
+  generates a readme
+  ## Installation:
+  use inquirer and npm
+  ## Usage:
+  answer prompts to generate readme
+  ## License:
+  MIT
+  ## Contribution:
+  request
+  ## Testing:
+  npm
+  ## Questions:
+  - Github: [rbenney15](https://github.com/rbenney15)
+  - Email: rob.benney@gmail.com 
+  
