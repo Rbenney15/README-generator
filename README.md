@@ -1,6 +1,5 @@
 
-  # ReadMe generator
-  ---
+  # README Generator
   ## Licensing:
   [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
   ## Table of Contents 
@@ -11,18 +10,18 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  generates a readme
+  Application that helps generate a professional README file for your GitHub respository
   ## Installation:
-  use inquirer and npm
+  Make sure inquirer is intalled on your machine, then clone the repository to your unit
   ## Usage:
-  answer prompts to generate readme
+  Open terminal, type "node index" and hit return key. Answer the prompts that follow. Once completed prompts a professional README file is generated. 
   ## License:
   MIT
   ## Contribution:
-  request
+  clone repository and then create pull request
   ## Testing:
-  npm
+  NPM
   ## Questions:
-  - Github: [rbenney15](https://github.com/rbenney15)
+  - Github: [Rbenney15](https://github.com/Rbenney15)
   - Email: rob.benney@gmail.com 
   
