@@ -47,8 +47,8 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `
   # ${data.title}
-  ## Licensing:
-  [![license](https://img.shields.io/badge/license-${data.licensing}-blue)](https://shields.io)
+  ## License:
+  [![license](https://img.shields.io/badge/license-${data.licensing}-blue)]
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
