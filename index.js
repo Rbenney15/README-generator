@@ -96,14 +96,7 @@ const questions = [
         name: 'licensing',
         message: 'Choose a license for your project (Required)',
         choices: ['Apache', 'MIT', 'GNU', 'None'],
-        // validate: licensingInput => {
-        //     if (licensingInput) {
-        //         return true;
-        //     } else {
-        //         console.log('You must pick a license for the project!');
-        //         return false;
-        //     }
-        // }
+      
     },
     // Github Username
     {

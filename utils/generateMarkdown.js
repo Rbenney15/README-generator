@@ -8,7 +8,7 @@ function renderLicenseBadge(license) {
     case 'Apache':
       return '![license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)'
     default:
-      return license
+      return
   }
 };
 

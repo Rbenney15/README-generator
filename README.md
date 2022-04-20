@@ -1,7 +1,7 @@
 
-  # asdas
+  # README Generator
   ## Licensing:
-  ![license](https://img.shields.io/badge/License-Apache_2.0-blue.svg)
+  ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
   ## Table of Contents 
   - [Description](#description)
   - [Installation](#installation)
@@ -10,18 +10,18 @@
   - [Testing](#testing)
   - [Additional Info](#additional-info)
   ## Description:
-  dasdasd
+  generates a Professional README file
   ## Installation:
-  asdasd
+  download repo from GitHub and then install inquirer in your command line
   ## Usage:
-  asdas
+  open terminal, run application by typing node index, answer prompts as they are presented, once all prompts are answered a professional README file is generated.
   ## License:
-  Licensed under [Apache](https://opensource.org/licenses/Apache-2.0)
+  Licensed under [MIT](https://opensource.org/licenses/MIT)
   ## Contribution:
-  asd
+  using pull requests on open issues
   ## Testing:
-  asdsa
+  npm
   ## Questions:
-  - Github: [asdsad](https://github.com/asdsad)
-  - Email: asdas 
+  - Github: [rbenney15](https://github.com/rbenney15)
+  - Email: rob.benney@gmail.com 
   
