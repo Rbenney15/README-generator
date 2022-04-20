@@ -4,11 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
-* [Licensing] (#licensing)
-* [Description] (#description)
-* [Installation] (#installation)
-* [Usage] (#usage)
-* [Questions] (#questions)
+* [Licensing]
+* [Description]
+* [Installation]
+* [Usage]
+* [Questions]
 
 ## Application Demo Video
 https://user-images.githubusercontent.com/98703735/164139963-c4407978-98d2-4697-813f-44ea202d1328.mp4
