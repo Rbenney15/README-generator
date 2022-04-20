@@ -1,27 +1,32 @@
+# Professional README Generator
 
-  # README Generator
-  ## Licensing:
-  ![license](https://img.shields.io/badge/License-MIT-yellow.svg)
-  ## Table of Contents 
-  - [Description](#description)
-  - [Installation](#installation)
-  - [Usage](#usage)
-  - [Contribution](#contribution)
-  - [Testing](#testing)
-  - [Additional Info](#additional-info)
-  ## Description:
-  generates a Professional README file
-  ## Installation:
-  download repo from GitHub and then install inquirer in your command line
-  ## Usage:
-  open terminal, run application by typing node index, answer prompts as they are presented, once all prompts are answered a professional README file is generated.
-  ## License:
-  Licensed under [MIT](https://opensource.org/licenses/MIT)
-  ## Contribution:
-  using pull requests on open issues
-  ## Testing:
-  npm
-  ## Questions:
-  - Github: [rbenney15](https://github.com/rbenney15)
-  - Email: rob.benney@gmail.com 
-  
+## Licensing:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Table of Contents
+* [Licensing] (#licensing)
+* [Description] (#description)
+* [Installation] (#installation)
+* [Usage] (#usage)
+* [Questions] (#questions)
+
+## Application Demo Video
+
+
+## Description
+* This application will help you save time that may have been spent on generating a indepth README file for your projecy and allow you to be spending more time on your project itself. You can see in the above in the demonstration video on how it should be working for you.
+
+## Installation
+* Download repo from GitHub
+* This application uses Inquirer, please make sure you have this installed as well
+
+## Usage
+* Open Terminal.
+* To run the application; type 'node index.js'
+* Answer the prompts as they are presented to you.
+* Once all prompts are answered, a Professional README.md file will be generated.
+
+## Questions
+GitHub url where the project is located:
+* https://github.com/Rbenney15/README-generator.git If you have any questions, please feel free to reach me at:
+* Rob.benney@gmail.com
