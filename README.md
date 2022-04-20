@@ -30,5 +30,5 @@ https://user-images.githubusercontent.com/98703735/164139963-c4407978-98d2-4697-
 
 ## Questions
 GitHub url where the project is located:
-* https://github.com/Rbenney15/README-generator.git If you have any questions, please feel free to reach me at:
-* Rob.benney@gmail.com
+* https://github.com/Rbenney15/README-generator.git 
+* If you have any questions, please feel free to reach me at: Rob.benney@gmail.com
